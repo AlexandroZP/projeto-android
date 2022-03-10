@@ -66,7 +66,7 @@ header p{
     color: white;
     font-size: 16px;
     margin: auto;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 a.externo::after{
     content: '\00A0\1F517';
